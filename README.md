@@ -45,11 +45,11 @@
 
 ### 🌐 Connect with Me
 
-- 📫 `douglas.alvarino [at] gmail.com`
+- 📫 `alvarino [at] usf.edu`
 - 💼 [Portfolio Website](https://aspirevenom.github.io)
 - 🐙 [GitHub Projects](https://github.com/AspireVenom)
 
----
+--- 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AspireVenom&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
