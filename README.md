@@ -45,8 +45,8 @@
 
 ### 🌐 Connect with Me
 
-- 📫 `alvarino [at] usf.edu`
-- 💼 [Portfolio Website](https://aspirevenom.github.io)
+- 📫 `alvarino@usf.edu`
+- 💼 [Portfolio Website](https://www.dalvarino.net)
 - 🐙 [GitHub Projects](https://github.com/AspireVenom)
 
 --- 
