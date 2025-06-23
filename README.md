@@ -9,6 +9,7 @@
 
 ### 🧠 About Me
 
+- 🚀 Current CTO of Styloop, a interior designer platform which unites all tools designers need to conduct their duties! 
 - 🚀 I built [SwipeToAdopt.org](https://swipetoadopt.org) – a Tinder-style pet adoption app using **Rust**, **Axum**, and **React**
 - ⚙️ I'm creating **Vimurai**, an AI-powered Neovim plugin with side-by-side diff previews and LLM code editing
 - ⚾ I developed an **MLB Elo rating system** in Python and PyTorch with simulated matches
