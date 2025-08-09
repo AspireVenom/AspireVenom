@@ -52,7 +52,7 @@
   
   <!-- Portfolio -->
   <a href="https://www.dalvarino.net">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
   </a>
   
   <!-- GitHub -->
