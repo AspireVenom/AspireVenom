@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Alvarino</h1>
-<h3 align="center">Cybersecurity student, full-stack engineer, and AI tinkerer</h3>
+<h3 align="center">I build secure, high-performance apps at the intersection of AI, full-stack dev, and system-level programming</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Rust+%2B+React+Apps;Neovim+Plugin+Dev+%F0%9F%91%93;AI%2C+ML%2C+LLMs+%E2%9A%A1;Elo+rating+systems+%E2%9A%BE;Tinkering+with+cool+tech" alt="Typing SVG" />
@@ -9,13 +9,11 @@
 
 ### 🧠 About Me
 
-- 🚀 Current CTO of Styloop, an interior design platform which unites all tools designers need to conduct their duties! 
-- 🚀 I built [SwipeToAdopt.org](https://swipetoadopt.org) – a Tinder-style pet adoption app using **Rust**, **Axum**, and **React**
-- ⚙️ I'm creating **Vimurai**, an AI-powered Neovim plugin with side-by-side diff previews and LLM code editing
-- ⚾ I developed an **MLB Elo rating system** in Python and PyTorch with simulated matches
-- 🛡️ I'm studying **cybersecurity** and love system-level development
-- 🧰 I work across the stack, from terminal tools to fully deployed web apps
-
+- **CTO at Styloop** [Styloop.Ai](styloop.ai) – leading engineer and director of an AI-powered, completely re-imagined, interior design platform
+- 🐾 Built [SwipeToAdopt.org](https://swipetoadopt.org) – Rust + React pet adoption platform that grew to ~1,300+ users!
+- ⚡ Creator of **Vimurai** – AI Neovim plugin with live diff previews (like cursor but for us nerds!)
+- 📊 Built **MLB Elo & Bayesian rating systems** in Python + PyTorch and hyperpameter tuning, with a 72% accuracy! 
+- 🔒 Cybersecurity student passionate about secure, performant code
 ---
 
 ### 🛠️ Tech Stack
@@ -49,7 +47,11 @@
 - 📫 `alvarino@usf.edu`
 - 💼 [Portfolio Website](https://www.dalvarino.net)
 - 🐙 [GitHub Projects](https://github.com/AspireVenom)
-
+  <p align="center">
+  <a href="mailto:alvarino@usf.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.dalvarino.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://github.com/AspireVenom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 --- 
 
 <p align="center">
