@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AspireVenom&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AspireVenom&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-bltvd6vg8-doug-6505s-projects.vercel.app/api?username=AspireVenom&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspireVenom&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
 </p>
