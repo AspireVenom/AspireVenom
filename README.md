@@ -2,8 +2,12 @@
 <h3 align="center">I build secure, high-performance apps at the intersection of AI, full-stack dev, and system-level programming</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Rust+%2B+React+Apps;Neovim+Plugin+Dev+%F0%9F%91%93;AI%2C+ML%2C+LLMs+%E2%9A%A1;Elo+rating+systems+%E2%9A%BE;Tinkering+with+cool+tech" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&width=720&height=70&lines=🚀+Shipping+Rust+%2B+React+apps;🧠+CTO+%40+Styloop+%E2%80%94+AI%2FML+in+prod;🧩+Vimurai%3A+AI+Neovim+plugin;📊+MLB+Elo+%2B+simulations;🔒+Cybersecurity+%2F+systems+%2F+DevOps"
+    alt="Typing intro"
+  />
 </p>
+
 
 ---
 
