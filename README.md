@@ -44,14 +44,23 @@
 
 ### 🌐 Connect with Me
 
-- 📫 `alvarino@usf.edu`
-- 💼 [Portfolio Website](https://www.dalvarino.net)
-- 🐙 [GitHub Projects](https://github.com/AspireVenom)
-  <p align="center">
-  <a href="mailto:alvarino@usf.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.dalvarino.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://github.com/AspireVenom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:alvarino@usf.edu">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335" alt="Email">
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://www.dalvarino.net">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=%23000000&color=%23000000" alt="Portfolio">
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/AspireVenom">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717" alt="GitHub">
+  </a>
 </p>
+
 --- 
 
 <p align="center">
