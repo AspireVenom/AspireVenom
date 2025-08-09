@@ -39,7 +39,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AspireVenom&theme=transparent" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-verticle&theme=transparent&hide=html&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 ---
