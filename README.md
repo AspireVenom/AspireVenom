@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-stats-omega-nine-40.vercel.app/api?username=AspireVenom&count_private=true&show_icons=true&theme=transparent&hide_border=true&force_rank=A%2B&rank_percentile=1&v=6" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AspireVenom&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AspireVenom&theme=transparent&hide=html&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=compact&theme=transparent&hide=html&hide_border=true&v=1" alt="Top Languages" />
 </p>
