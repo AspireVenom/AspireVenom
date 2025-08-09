@@ -47,19 +47,20 @@
 <p align="center">
   <!-- Email -->
   <a href="mailto:alvarino@usf.edu">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
   
   <!-- Portfolio -->
   <a href="https://www.dalvarino.net">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" height="40">
   </a>
   
   <!-- GitHub -->
   <a href="https://github.com/AspireVenom">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
 </p>
+
 
 --- 
 
