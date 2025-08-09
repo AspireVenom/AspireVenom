@@ -49,21 +49,21 @@
   <a href="mailto:alvarino@usf.edu">
     <img
       src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335&logoWidth=28"
-      alt="Email" height="54">
+      alt="Email" height="65">
   </a>
   &nbsp;&nbsp;
 
   <a href="https://www.dalvarino.net">
     <img
       src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=safari&logoColor=white&labelColor=%23000000&color=%23000000&logoWidth=28"
-      alt="Portfolio" height="54">
+      alt="Portfolio" height="65">
   </a>
   &nbsp;&nbsp;
 
   <a href="https://github.com/AspireVenom">
     <img
       src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717&logoWidth=28"
-      alt="GitHub" height="54">
+      alt="GitHub" height="65">
   </a>
 
 </div>
