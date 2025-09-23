@@ -14,7 +14,7 @@
 ### 🧠 About Me
 - **Full Stack Software Engineer** @ [Jamjuice](jamjuice.com)
 - Founder & Full Stack Software Engineer @ [OnlyFollowers](onlyfollowers.org)
-- EX-CTO at Styloop [Styloop.Ai](styloop.ai) – leading engineer and director of an AI-powered, completely re-imagined, interior design platform
+- EX-CTO at [Styloop.Ai](styloop.ai) – leading engineer and director of an AI-powered, completely re-imagined, interior design platform
 - Built [SwipeToAdopt.org](https://swipetoadopt.org) for the sake of humanity– Rust + React pet adoption platform that grew to ~1,300+ users!
 - Creator of **Vimurai** – AI Neovim plugin with live diff previews (like cursor but for us nerds!)
 - Built **MLB Elo & Bayesian rating systems** in Python + PyTorch featuring hyperpameter tuning, with a 72% accuracy! (for the nerds who gamble) 
