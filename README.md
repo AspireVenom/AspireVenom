@@ -76,15 +76,17 @@
   />
   <br/>
   <img
-    src="https://streak-stats.demolab.com?user=AspireVenom&theme=shadow-purple&hide_border=true&mode=daily&exclude_days=Sun%2CFri%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&v=1"
-    alt="GitHub Streak"
+    src="https://github-readme-streak-gules.vercel.app?user=Aspirevenom&theme=dark-smoky&hide_border=true&mode=weekly&exclude_days=Sun%2CFri%2CSat"
+    alt="GitHub Weekly Streak"
   />
+  <br/>
   <img
-    src="https://streak-stats.demolab.com?user=AspireVenom&theme=shadow-purple&exclude_days=Sun%2CFri%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&v=1"
-
+    src="https://github-readme-streak-gules.vercel.app?user=Aspirevenom&theme=rust-ferris-dark&hide_border=true&exclude_days=Sun%2CSat&hide_total_contributions=true"
+    alt="GitHub Daily Streak"
+  />
   <br/>
   <img 
-    src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=1" 
+    src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=4" 
     alt="Top Languages" 
   />
 </p>
