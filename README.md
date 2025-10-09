@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Douglas Alvarino</h1>
-<h3 align="center">I build secure, high-performance apps at the intersection of AI, full-stack dev, and system-level programming</h3>
+<h3 align="center">I build secure, high‑performance apps at the intersection of AI, full‑stack dev, and systems</h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&width=720&height=70&lines=🚀+Shipping+Rust+%2B+React+apps;🧠+CTO+%40+Styloop+%E2%80%94+AI%2FML+in+prod;🧩+Vimurai%3A+AI+Neovim+plugin;📊+MLB+Elo+%2B+simulations;🔒+Cybersecurity+%2F+systems+%2F+DevOps"
+    src="https://readme-typing-svg.demolab.com?font=monaspace+radon&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&width=720&height=70&lines=🚀+Shipping+Rust+%2B+React+apps;🧠+CTO+%40+Styloop+%E2%80%94+AI%2FML+in+prod;🧩+Vimurai%3A+AI+Neovim+plugin;📊+MLB+Elo+%2B+simulations;🔒+Cybersecurity+%2F+systems+%2F+DevOps"
     alt="Typing intro"
   />
 </p>
@@ -11,18 +11,18 @@
 
 ---
 
-### 🧠 About Me
-- **Full Stack Software Engineer** @ [Jamjuice](jamjuice.com)
-- Founder & Full Stack Software Engineer @ [OnlyFollowers](onlyfollowers.org)
-- EX-CTO at [Styloop.Ai](styloop.ai) – leading engineer and director of an AI-powered, completely re-imagined, interior design platform
-- Built [SwipeToAdopt.org](https://swipetoadopt.org) for the sake of humanity– Rust + React pet adoption platform that grew to ~1,300+ users!
-- Creator of **Vimurai** – AI Neovim plugin with live diff previews (like cursor but for us nerds!)
-- Built **MLB Elo & Bayesian rating systems** in Python + PyTorch featuring hyperpameter tuning, with a 72% accuracy! (for the nerds who gamble) 
-- Cybersecurity student passionate about the saying "Every line of code is a liability"
-- Advid AI Pessimist (no really, cursor is nothing extraordinary, I promise)
+### About Me
+- **Full‑Stack Software Engineer** @ [Jamjuice](https://jamjuice.com)
+- Founder & Full‑Stack Engineer @ [OnlyFollowers](https://onlyfollowers.org)
+- Ex‑CTO at [Styloop](https://styloop.ai) — led engineering for an AI‑powered interior design platform
+- Built [SwipeToAdopt.org](https://swipetoadopt.org) — Rust + React pet adoption platform used by ~1,300+ people
+- Creator of **Vimurai** — AI Neovim plugin with live diff previews
+- Built **MLB Elo & Bayesian rating systems** in Python + PyTorch with hyperparameter tuning; ~72% accuracy
+- Cybersecurity student; believe "every line of code is a liability"
+- Avid AI pessimist (no, Cursor isn’t magic)
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -36,7 +36,37 @@
 
 ---
 
-### 📈 GitHub Stats
+### Featured SOLO Projects
+
+- **SwipeToAdopt.org** — Rust (Axum) + React app enabling humane pet adoption at scale.
+  - Auth, image processing, search, and deployments on DigitalOcean
+  - [Website](https://swipetoadopt.org)
+- **Vimurai** — Neovim + AI plugin with live diff previews, optimized UX for code review.
+  - Context windows, prompt templates, and safe‑edit workflows
+  - OUTDATED, I became an AI DOOMER
+- **MLB Ratings** — Elo + Bayesian ratings in Python/PyTorch with hyperparameter sweeps.
+  - Simulation tooling and backtesting; ~72% prediction accuracy
+
+---
+
+### 🧭 Engineering Principles
+
+- **Security first**: minimize attack surface; secrets hygiene; least privilege.
+- **Type‑safety**: Rust/TypeScript strict; validate boundaries; no silent failures.
+- **Observability**: structured logs, metrics, traces; measure before optimizing.
+- **Simplicity**: prefer boring tech; optimize for operability and maintainability.
+- **DX matters**: scripts, docs, and reproducible environments are features.
+
+---
+
+### Currently
+
+- Producing features for JamJuice & fixing bugs!
+- Iterating on Rust services with Axum and async concurrency.
+- Looking for Open-Source projects to support!
+- Exploring ML‑assisted developer tooling and safety rails.
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-omega-nine-40.vercel.app/api?username=AspireVenom&count_private=true&show_icons=true&theme=transparent&hide_border=true&force_rank=A%2B&rank_percentile=1&v=6" alt="GitHub Stats" />
@@ -48,7 +78,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="center">
 
