@@ -75,15 +75,14 @@
     alt="GitHub Stats" 
   />
   <br/>
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=AspireVenom&theme=transparent&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&exclude_days=Sun%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=AspireVenom&theme=shadow-purple&hide_border=true&mode=daily&exclude_days=Sun%2CFri%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&v=1"
+    alt="GitHub Streak"
   />
-  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=AspireVenom&theme=shadow-purple&exclude_days=Sun%2CFri%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&v=1"
 
-  <!-- Top Languages -->
+  <br/>
   <img 
     src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=1" 
     alt="Top Languages" 
