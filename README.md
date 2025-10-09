@@ -71,7 +71,7 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-omega-nine-40.vercel.app/api?username=AspireVenom&count_private=true&show_icons=true&theme=transparent&hide_border=true&force_rank=A%2B&rank_percentile=1&v=6" 
+    src="https://github-readme-stats-omega-nine-40.vercel.app/api?username=AspireVenom&count_private=true&show_icons=true&theme=neon&hide_border=true&force_rank=A%2B&rank_percentile=1&v=6" 
     alt="GitHub Stats" 
   />
   <br/>
