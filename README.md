@@ -69,12 +69,28 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-omega-nine-40.vercel.app/api?username=AspireVenom&count_private=true&show_icons=true&theme=transparent&hide_border=true&force_rank=A%2B&rank_percentile=1&v=6" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-omega-nine-40.vercel.app/api?username=AspireVenom&count_private=true&show_icons=true&theme=transparent&hide_border=true&force_rank=A%2B&rank_percentile=1&v=6" 
+    alt="GitHub Stats" 
+  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=AspireVenom&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats" alt="GitHub Streak" />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=AspireVenom&theme=transparent&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&exclude_days=Sun%2CSat&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195" 
+    alt="GitHub Streak" 
+  />
   <br/>
-  <img src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=1" alt="Top Languages" />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=1" 
+    alt="Top Languages" 
+  />
 </p>
+
+
 
 ---
 
