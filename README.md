@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Alvarino</h1>
 <h3 align="center">I build secure, high‑performance apps at the intersection of AI, full‑stack dev, and systems</h3>
-[![An image of @aspirevenom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aspirevenom)](https://holopin.io/@aspirevenom)
 
 <p align="center">
   <img
@@ -11,6 +10,7 @@
 
 
 ---
+[![An image of @aspirevenom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aspirevenom)](https://holopin.io/@aspirevenom)
 
 ### About Me
 - **Full‑Stack Software Engineer** @ [Jamjuice](https://jamjuice.com)
