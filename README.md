@@ -87,7 +87,7 @@
   />
   <br/>
   <img 
-    src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html&hide_border=true&v=4" 
+    src="https://github-readme-stats-omega-nine-40.vercel.app/api/top-langs?username=AspireVenom&layout=donut-vertical&theme=transparent&hide=html,css,scss,less,shell,dockerfile,makefile,batchfile,powershell,hack,cython,ejs,mdx&size_weight=0.5&count_weight=0.5&hide_border=true&v=5" 
     alt="Top Languages" 
   />
 </p>
